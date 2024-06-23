@@ -6,6 +6,6 @@
 
 - 🧪  Fun fact: I'm a former Biomedical graduate 👨‍🔬
 
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=gabrielnpimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="gabrielnpimentel's stats"/>
+<!-- <img width="450em" src="https://github-readme-stats.vercel.app/api?username=gabrielnpimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="gabrielnpimentel's stats"/> -->
 <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnpimentel&layout=compact&theme=dracula" alt="gabrielnpimentel's most languages"/>
 
